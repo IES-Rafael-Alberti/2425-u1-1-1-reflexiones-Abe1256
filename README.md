@@ -27,3 +27,5 @@
   - 2.2. Porque el código fuente no está escrito en lenguaje máquina (ceros y unos), el cual es necesario para que la máquina pueda entenderlo.
   - 2.3. Porque el enlazado toma los archivos del codigo objeto y los une en un unico archivo ejecutable, además de incluir las bibliotecas necesarias para que el programa funcione correctamente.
   - 2.4. El archivo ejecutable resultaría corrupto
+
+## 3. Generación de código intermedio
